@@ -1,0 +1,15 @@
+{
+  "type": "mashup",
+  "name": "Qlik icon",
+  "description": "Generate dynamic for qlik support icon",
+  "version": "1.0.1",
+  "author": "Ranjithkumar M",
+  "homepage": "https://www.ranjithm.in/",
+  "keywords": "qlik-sense, qlik icon, mashup, leonardo-icon",
+  "license": "MIT",
+  "repository": "https://github.com/ranvithm/qlik-icon.git",
+  "preview": "logo.png",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  }
+}

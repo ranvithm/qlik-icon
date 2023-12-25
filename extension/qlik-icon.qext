@@ -8,7 +8,7 @@
   "keywords": "qlik-sense, qlik icon, mashup, leonardo-icon",
   "license": "MIT",
   "repository": "https://github.com/ranvithm/qlik-icon.git",
-  "preview": "logo.png",
+  "preview": "logo.svg",
   "dependencies": {
     "qlik-sense": ">=3.0.x"
   }
